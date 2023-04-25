@@ -54,3 +54,4 @@ jobs:
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED6BD4C75E984F8D98120FA982F43568 }}
           package: .
+          exclude: 'node_modules'
