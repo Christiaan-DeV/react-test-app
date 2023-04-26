@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/2ed3117a-3a1a-4d53-8492-c541a9c58205/resourceGroups/FARM-Tanzania-hosted-app/providers/Microsoft.Web/sites/FARM-Tanzania-hosted-app",
-    "appService.deploySubpath": "."
-}
