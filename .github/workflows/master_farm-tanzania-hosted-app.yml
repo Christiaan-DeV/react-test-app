@@ -51,5 +51,5 @@ jobs:
         with:
           app-name: 'FARM-Tanzania'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED6BD4C75E984F8D98120FA982F43568 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_dc672e3a73d74f25b7ac430adc481bb0 }}
           package: .
